@@ -1,0 +1,194 @@
+lucasangelo.com
+<!-- ======= Interests ======= -->
+      <div class="interests container">
+        <div class="section-title">
+          <h2>Interests</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4">
+            <div class="icon-box">
+              <i class="ri-code-box-line" style="color: #ffbb2c"></i>
+              <h3>Software Development</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-settings-2-fill" style="color: #5578ff"></i>
+              <h3>Backend Development</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-window-fill" style="color: #e80368"></i>
+              <h3>Web Development</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="ri-smartphone-line" style="color: #1c7d32"></i>
+              <h3>Mobile Development</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-code-s-slash-fill" style="color: #28a745"></i>
+              <h3>Software Engineering</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-database-2-line" style="color: #f1081f"></i>
+              <h3>Database</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #47aeff"></i>
+              <h3>Algorithms</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-cloud-fill" style="color: #ffc107"></i>
+              <h3>Cloud</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Interests -->
+
+      <div class="portfolio">
+        <div class="container">
+          <div class="section-title">
+            <h2>Online Certification</h2>
+          </div>
+
+          <div
+            class="row portfolio-container"
+            style="position: relative; height: 437.75px"
+          >
+            <div
+              class="col-lg-4 col-md-6 portfolio-item filter-app"
+              style="position: absolute; left: 0px; top: 0px"
+            >
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/certification/cisco.jpg"
+                  class="img-fluid"
+                  alt="Cisco"
+                />
+                <div class="portfolio-info">
+                  <h4>Cybersecurity</h4>
+                  <div class="portfolio-links">
+                    <a
+                      href="https://www.credly.com/badges/b11b4d20-fa11-4577-ab27-99a73367394c"
+                      target="_blank"
+                      title="Certificate"
+                      ><i class="bx bx-link"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 portfolio-item filter-app"
+              style="position: absolute; left: 370px; top: 0px"
+            >
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/certification/cisco.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-info">
+                  <h4>Learn-A-Thon</h4>
+                  <div class="portfolio-links">
+                    <a
+                      href="https://www.credly.com/badges/0e26bbab-e1a2-4411-abef-45e741f74d61"
+                      target="_blank"
+                      title="Certificate"
+                      ><i class="bx bx-link"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 portfolio-item filter-app"
+              style="position: absolute; left: 740px; top: 0px"
+            >
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/certification/cursoemvideo.png"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-info">
+                  <h4>MySQL Database</h4>
+                  <div class="portfolio-links">
+                    <a
+                      href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=6E69-6573-1"
+                      target="_blank"
+                      title="Certificate"
+                      ><i class="bx bx-link"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 portfolio-item filter-project"
+              style="position: absolute; left: 370px; top: 218.875px"
+            >
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/certification/cursoemvideo.png"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-info">
+                  <h4>Java</h4>
+                  <div class="portfolio-links">
+                    <a
+                      href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=6E69-638F-7"
+                      target="_blank"
+                      title="Certificate"
+                      ><i class="bx bx-link"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-lg-4 col-md-6 portfolio-item filter-project"
+              style="position: absolute; left: 740px; top: 218.875px"
+            >
+              <div class="portfolio-wrap">
+                <img
+                  src="assets/img/certification/udemy.png"
+                  class="img-fluid"
+                  alt=""
+                />
+                <div class="portfolio-info">
+                  <h4>NodeJS</h4>
+                  <div class="portfolio-links">
+                    <a
+                      href="https://www.udemy.com/certificate/UC-f7e3a446-7c0a-4cf6-b0d8-881a3874bd9f/"
+                      target="_blank"
+                      title="Certificate"
+                      ><i class="bx bx-link"></i
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Education Section -->
